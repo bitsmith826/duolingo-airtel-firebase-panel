@@ -1,0 +1,11268 @@
+{
+  "_meta": {
+    "source": "wikipedia Mobile telephone numbering in India (wikitext)",
+    "note": "operator LAHIR (pre-MNP). ported numbers MUST re-check. unknown=legacy/dead/empty, untrusted.",
+    "total": 2250
+  },
+  "series": {
+    "6000": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "6001": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "6002": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "6003": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6005": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "6006": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "6009": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "6026": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AS"
+    },
+    "6032": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "NE"
+    },
+    "6109": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "6200": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6201": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6202": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6203": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6204": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6205": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6206": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6207": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "6208": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "6209": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "6230": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "6232": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "6235": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "6238": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "6260": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6261": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6262": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "6263": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6264": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6265": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6266": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6267": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6268": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "6269": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "6280": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "6282": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "6283": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "6284": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "6287": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "6289": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "6290": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "6291": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "6292": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "6293": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "6294": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "6295": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "6296": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "6300": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "6301": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "6302": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "6303": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "6304": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "6306": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6307": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6309": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "6351": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "6352": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "6353": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "6354": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "6355": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "6356": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "6357": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "6358": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "6359": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "6360": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "6361": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "6362": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "6363": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "6364": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "6366": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "6367": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "6369": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6370": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "6371": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "6372": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "6374": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6375": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "6376": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "6377": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "6378": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "6379": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6380": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6381": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6382": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6383": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "6384": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "6385": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "6386": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6387": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6388": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6389": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "6391": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "6392": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6393": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6394": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "6396": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "6397": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "6398": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "6399": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "6826": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "DL"
+    },
+    "6828": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "6901": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "6909": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "6913": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7000": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "7001": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "7002": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7003": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "7004": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7005": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "7006": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "7007": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7008": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "7009": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "7010": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "7011": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7012": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "7013": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "7014": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "7015": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "7016": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "7017": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "7018": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HP"
+    },
+    "7019": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "7020": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "7021": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "7022": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7023": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7024": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7025": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7026": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7027": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "7028": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7029": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "7030": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7032": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7033": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7034": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7036": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7038": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7039": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "7042": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "7043": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7044": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "7045": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "7046": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7047": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7048": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7049": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7050": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7051": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "7052": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7054": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7055": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7056": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "7057": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7060": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7061": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7063": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7064": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7065": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7066": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7067": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "7068": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7069": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7070": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7071": {
+      "op": "unknown",
+      "op_raw": "AC",
+      "circle": "UE"
+    },
+    "7072": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7073": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7074": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7076": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7077": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7078": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "UW"
+    },
+    "7079": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7080": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7081": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7082": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "7083": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7084": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7085": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "7086": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "7087": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "7088": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7089": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7090": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7091": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7092": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7093": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7094": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7095": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7096": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7097": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "AP"
+    },
+    "7099": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "AS"
+    },
+    "7102": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7103": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "7138": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7201": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7202": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7203": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7205": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7206": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "7208": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7217": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7218": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7219": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7222": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7223": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7224": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7225": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7226": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7227": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7228": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7229": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7230": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7237": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7238": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7239": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7240": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7249": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7250": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7251": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7252": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7253": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7254": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7255": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7256": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7257": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7258": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7259": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7260": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7261": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7262": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7263": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7264": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7265": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7280": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7281": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7282": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7283": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7284": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7289": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7290": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7291": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7292": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7294": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7295": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7296": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7297": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7300": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7302": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7303": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7304": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7305": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7306": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "7307": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7308": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7309": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7310": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7311": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7319": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7320": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7321": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7322": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7323": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7324": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7325": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7326": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7327": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7329": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7330": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7332": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7333": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7334": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7335": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7336": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7337": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7338": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7339": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7340": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "7347": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "7348": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7349": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7350": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7351": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7352": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7353": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7354": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7355": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7356": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "7357": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7358": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7359": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7360": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7361": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7362": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7363": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7364": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7365": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7366": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7367": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7368": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7369": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7370": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7371": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7372": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7374": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7375": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7376": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "7377": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7378": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7379": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7380": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "7381": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7382": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "7383": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7384": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7385": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7387": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7388": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7389": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7390": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7391": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7395": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7396": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7397": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7400": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7406": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7407": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7408": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7409": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7410": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7412": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7413": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7414": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7419": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "7424": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7425": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7426": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7427": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7429": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7430": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7431": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7432": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7433": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7434": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7435": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7436": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7437": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7438": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7440": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7441": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7447": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7448": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7449": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "7450": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "7454": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7455": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7456": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7457": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7458": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7459": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7460": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7461": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7462": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7463": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7465": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7466": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7470": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7471": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7474": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7476": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "RJ"
+    },
+    "7477": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7478": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7481": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7482": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7483": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "7484": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7485": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7486": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7487": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7488": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7490": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "7491": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7492": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7493": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7494": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7495": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "7496": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "7497": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7500": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7505": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "7506": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "7507": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7508": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7509": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7510": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7511": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7517": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7518": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7520": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7521": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7522": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7523": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7524": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7525": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7526": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7527": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7528": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7529": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7530": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7531": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7533": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7534": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7535": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7536": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7538": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7539": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7540": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7541": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7542": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7543": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7544": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7545": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7546": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7547": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7548": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "WB"
+    },
+    "7549": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "BR"
+    },
+    "7550": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "WB"
+    },
+    "7551": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "WB"
+    },
+    "7556": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MP"
+    },
+    "7557": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7558": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7559": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7560": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7561": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7562": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7563": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7564": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7565": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7566": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7567": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7568": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7569": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "AP"
+    },
+    "7570": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "UE"
+    },
+    "7571": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "UE"
+    },
+    "7572": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7573": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7574": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7575": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7576": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "AS"
+    },
+    "7577": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7579": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "7580": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7581": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7582": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7583": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7584": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7585": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7586": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7587": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "7588": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "7589": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "7590": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "7591": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7592": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7593": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7594": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7595": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "7596": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "7597": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "7598": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "7599": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "7600": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7602": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "7604": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "7605": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7606": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7607": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7608": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7609": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7617": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7618": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7619": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7620": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "7621": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7622": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7623": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7624": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7625": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7626": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "7627": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "7628": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "7629": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "7630": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "7631": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7632": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7633": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7634": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7635": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "7636": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "7637": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "7638": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "7639": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7640": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "7641": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "7642": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "7646": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "7647": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "7648": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "7649": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "7650": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "7651": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7652": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "7653": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "7654": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7655": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "7656": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "7658": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7659": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7660": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7661": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7662": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7663": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7664": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "7665": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7666": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "7667": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7668": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7669": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7671": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "7672": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7673": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7674": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7675": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7676": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "7678": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7680": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7682": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7683": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7684": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7688": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7689": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7690": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7691": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7692": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7693": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7694": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7696": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "7697": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7698": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7699": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7700": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7701": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7702": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7703": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7704": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7705": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7706": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7707": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7708": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "7709": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7710": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7711": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7712": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7713": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7714": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7715": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7716": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "7717": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7718": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7719": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7720": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7721": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7725": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7726": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7727": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7728": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7729": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7730": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7731": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7732": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7733": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7734": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7736": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "7737": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7738": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "7739": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7740": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7741": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7742": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "7743": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7744": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7745": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7746": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7747": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7748": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7749": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7750": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7751": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7752": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7753": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7754": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7755": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7756": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7757": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7758": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "7759": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7760": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7761": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7762": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7763": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7764": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7765": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7766": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7767": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7768": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7769": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MH"
+    },
+    "7770": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7771": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7772": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7773": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7774": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7775": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7776": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7777": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7779": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7780": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7781": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7782": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7787": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7788": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7789": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "7796": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7797": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7798": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7799": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7800": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7807": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "7808": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "7809": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "OR"
+    },
+    "7810": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "TN"
+    },
+    "7811": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "TN"
+    },
+    "7812": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "KA"
+    },
+    "7813": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "KA"
+    },
+    "7814": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "PB"
+    },
+    "7817": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7818": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7819": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "GJ"
+    },
+    "7820": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "RJ"
+    },
+    "7821": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "RJ"
+    },
+    "7822": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "RJ"
+    },
+    "7827": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7828": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MP"
+    },
+    "7829": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7830": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7831": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "7832": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "7833": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "7834": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7835": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7836": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7837": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "7838": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7839": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "7840": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "7852": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "OR"
+    },
+    "7856": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7860": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "7863": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "WB"
+    },
+    "7867": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7868": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "7869": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7870": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "7871": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "7872": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "7873": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "7874": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "7875": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7876": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HP"
+    },
+    "7877": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "7878": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "7879": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "7880": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7881": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7887": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "7888": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "7889": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "7890": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "7891": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "7892": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "7893": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7894": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "7895": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "7896": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "7897": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "7898": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "7899": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "7900": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "7901": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "7902": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "7903": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7904": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "7905": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7906": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "7907": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "7908": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "7909": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "7972": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "7973": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "7974": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "7975": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "7976": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "7977": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "7978": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "7979": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7980": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "7981": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "7982": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "7983": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "7984": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "7985": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "7986": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "7987": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "7988": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "7989": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "7990": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "7991": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7992": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "7993": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7994": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "7995": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "7996": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "7997": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "7999": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "8000": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": ""
+    },
+    "8001": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8002": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8003": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8004": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "8005": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "8006": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8007": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8008": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8009": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8010": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8011": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8016": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8017": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8018": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8051": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8052": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8053": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8054": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8055": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8056": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8057": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8058": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8059": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8065": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "KA"
+    },
+    "8071": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "KA"
+    },
+    "8072": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8073": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "8074": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8075": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "8076": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8077": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "8078": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8079": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8081": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8082": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MU"
+    },
+    "8084": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8085": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "8086": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8089": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8094": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8095": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8096": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8098": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8102": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8104": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8105": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8106": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8107": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8108": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8110": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8111": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8112": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8113": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8114": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8115": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8116": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8117": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8118": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8119": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8120": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8121": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "DL"
+    },
+    "8122": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8124": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8126": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8127": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8128": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "8129": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8130": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8131": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8132": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8133": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8134": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8135": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8136": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8137": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8138": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8139": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8140": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8141": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8142": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8144": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "8145": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8146": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8147": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8150": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8151": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8152": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8153": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8154": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8155": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8156": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8157": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8158": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8159": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8160": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "8167": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8168": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "8169": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8170": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8171": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8172": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8173": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8174": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8177": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8178": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8179": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8180": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8184": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8185": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8186": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8187": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8189": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8190": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8191": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8192": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8193": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8194": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8195": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8196": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8197": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8198": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8199": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8200": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "8207": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8208": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8209": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8210": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8217": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "8218": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "8219": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HP"
+    },
+    "8220": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8221": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8222": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8223": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8224": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8225": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8226": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8227": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8228": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8229": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8238": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8239": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8240": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "8247": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8248": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8249": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "8250": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "8252": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8256": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "8257": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "8258": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "8259": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "8264": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8269": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "8270": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8271": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8273": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8275": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "8277": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "8278": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "8279": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "8280": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "8281": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8282": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "8283": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8284": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8287": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8288": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8289": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8290": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8291": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8292": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8294": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8295": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "8296": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8297": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8298": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8299": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8300": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "8301": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8304": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8307": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "8308": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8309": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8310": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "8317": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8318": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8319": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "8320": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8328": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8329": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8330": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8331": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8332": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8333": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8334": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8335": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8336": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8337": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8338": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8339": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8340": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8341": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8342": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8343": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8345": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8346": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8347": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8348": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8349": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "8350": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "8351": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "8352": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "8355": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8356": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MU"
+    },
+    "8357": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8358": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8359": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8360": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "8367": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8368": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8369": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8370": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8371": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8372": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8373": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8374": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8375": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8376": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8377": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8378": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8379": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8380": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8383": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8384": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8390": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8392": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8393": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8394": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8395": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8396": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8397": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8398": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8399": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8400": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8402": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8403": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8404": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8405": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8406": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8407": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8408": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8409": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8411": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8412": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8413": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8414": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8415": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8416": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8418": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8419": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8420": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "8421": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8422": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8423": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8425": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8426": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8427": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8428": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8429": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8432": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8433": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8434": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8435": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8436": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8437": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8440": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8441": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8445": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8446": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "MH"
+    },
+    "8447": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8448": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8449": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8450": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8451": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8452": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8454": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "8455": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8456": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8457": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8458": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8459": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8461": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8462": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8463": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8464": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8465": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8466": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8469": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8471": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8472": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8473": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8474": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8475": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8476": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8477": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8478": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8479": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8480": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "8481": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8483": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8484": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8485": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8486": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8489": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8491": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "8492": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "8493": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "8494": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8495": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8496": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8497": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8498": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8499": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8500": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8501": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8502": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8503": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8504": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8505": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8506": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8509": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "8510": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8511": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "8512": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8513": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8514": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8515": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8516": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8517": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8518": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8519": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8521": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8522": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8523": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8524": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8525": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8527": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8528": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8529": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8530": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8531": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8532": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8535": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8536": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8537": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8538": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8539": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8540": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8541": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8543": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8544": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "8546": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8547": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "8548": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8549": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8550": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8551": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8552": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8554": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8555": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8556": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8557": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8558": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8569": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "8570": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "8571": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "8572": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "8573": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8574": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8576": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8577": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8578": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8579": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8580": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "8581": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8582": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "8583": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "8584": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "8585": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8586": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8587": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8588": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8589": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8590": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "8591": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8592": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8593": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8594": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8595": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8596": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8597": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8598": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8599": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "8600": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "8601": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8605": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8606": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8607": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8608": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8609": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8610": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8617": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "8618": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "8619": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8626": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "8627": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "8628": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "8630": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "8637": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "8638": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "8639": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8650": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8651": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8652": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8653": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8657": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8658": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "8660": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "8667": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8668": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8669": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8670": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8674": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8676": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8677": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8678": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8680": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8681": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8682": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8683": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8684": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8685": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8689": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8690": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8691": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8692": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8695": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8696": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8697": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "8698": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8699": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8700": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8707": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8708": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "8709": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8713": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "8714": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8715": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "8716": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "8717": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8718": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8719": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8720": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8721": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8722": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8723": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8724": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8725": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8726": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8727": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8728": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8729": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8730": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8731": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8739": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8740": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8741": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8742": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8743": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8744": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8745": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8746": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8747": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8748": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8749": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8750": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8752": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8753": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8754": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8755": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8756": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8757": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8758": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8761": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8762": {
+      "op": "unknown",
+      "op_raw": "CC",
+      "circle": "KA"
+    },
+    "8763": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "8764": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "8765": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "8766": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8768": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "8769": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8770": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "8777": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "8778": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8779": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8780": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "8787": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8788": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8789": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "8790": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8794": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "8795": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8796": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8800": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8805": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8806": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8807": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8808": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8809": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8810": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8811": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8812": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "8813": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8814": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8815": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "8816": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8818": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8819": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8821": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8823": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8824": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8825": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "8826": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "8827": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "8828": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8830": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "8836": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "AP"
+    },
+    "8837": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "8838": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "8839": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "8840": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8847": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "8848": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "8849": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "8850": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8851": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8853": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8855": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8858": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8859": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8860": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8861": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8862": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8863": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8870": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "8872": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "8873": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8874": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8875": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "8876": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "8877": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "8878": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8879": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "8880": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "8881": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8882": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8884": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8886": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "8887": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "8888": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8889": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8890": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8891": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "8894": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "8895": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "8897": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8899": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8900": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "8901": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "8902": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KO"
+    },
+    "8903": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "8905": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8910": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "8917": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "8918": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "8919": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "8920": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "8921": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "8923": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8928": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "8929": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "8930": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "8932": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8933": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8934": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8935": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8936": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8937": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8938": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8939": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "CH"
+    },
+    "8940": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "8941": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8942": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8943": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "8944": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8945": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8948": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8949": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "8952": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8953": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "8954": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "8956": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "8958": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "8959": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8963": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8964": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8965": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8966": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "8967": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8968": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "8969": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "8970": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "8971": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "8972": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "8974": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "8975": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "8978": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "8979": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "8980": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "8985": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "8986": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "8987": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "8988": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "8989": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "8990": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "8991": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "8992": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "8993": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "8994": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "8995": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "8997": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "8999": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9000": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9001": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9002": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9003": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9004": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9005": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9006": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9007": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9008": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9009": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9010": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9011": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9012": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9013": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "DL"
+    },
+    "9014": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9015": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HP"
+    },
+    "9016": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9019": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9021": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9022": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9023": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9024": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9025": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9026": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9027": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9028": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9029": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9030": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9031": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9032": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9033": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9034": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9035": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9036": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9037": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9038": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9039": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9040": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9041": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9042": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9043": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9044": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9045": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9046": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9047": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9048": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9049": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9050": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9051": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9052": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9053": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9054": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "9055": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9056": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9057": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9058": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9059": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9060": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9061": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9062": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9063": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9064": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "9065": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9067": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9068": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9070": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "9071": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9072": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9073": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9074": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "9075": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9076": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9077": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "9078": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9079": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9080": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9081": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9082": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9083": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9084": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9085": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "9086": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "9087": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9088": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9089": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "9090": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "9091": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9092": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9093": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9094": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9096": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9099": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9100": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9101": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "9102": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9103": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9104": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9105": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9106": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9108": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9109": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9110": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9111": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9112": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9113": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9114": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "9115": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9116": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9117": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9119": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9121": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9122": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9123": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "9124": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9125": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9126": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9127": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "9128": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9129": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9130": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9131": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9133": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9134": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9135": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9136": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9137": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9138": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9140": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9141": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9142": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9144": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9145": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9146": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9147": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9148": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9149": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "9150": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9151": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9152": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9153": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9154": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9155": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9156": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9157": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9158": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9159": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9160": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9161": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9162": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9163": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9164": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9165": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9166": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9167": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9168": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9170": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9171": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9172": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9173": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9174": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9175": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9176": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9177": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9178": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9179": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9180": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9181": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AS"
+    },
+    "9182": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9183": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9184": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9185": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "9186": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "JK"
+    },
+    "9187": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9188": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9189": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KO"
+    },
+    "9190": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9191": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "NE"
+    },
+    "9192": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "9193": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9194": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9195": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9196": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9197": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9198": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9199": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9200": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9201": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9202": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9203": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9204": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9205": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9207": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9211": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9213": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9214": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9215": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9216": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9218": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9219": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9220": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9221": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9223": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9224": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9225": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9226": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9227": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9229": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9230": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "9233": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "9234": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9235": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9236": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9237": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9238": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9239": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9240": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9241": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9242": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9243": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9244": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9245": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "9249": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "9250": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9251": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9252": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9253": {
+      "op": "airtel",
+      "circle": "Delhi"
+    },
+    "9254": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9255": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MU"
+    },
+    "9256": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9257": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9259": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9261": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9262": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9263": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9264": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9265": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9266": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9267": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UP"
+    },
+    "9269": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9270": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9272": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9273": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9274": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9276": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9277": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9278": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9279": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9280": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9281": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9284": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9285": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9286": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9287": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "9288": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9292": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9296": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9298": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "9301": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9302": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9304": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9305": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9306": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9308": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9309": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9310": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9311": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9312": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "DL"
+    },
+    "9313": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9315": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9316": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9317": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HP"
+    },
+    "9318": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9319": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9321": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9322": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9324": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9325": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9326": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9327": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9328": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9330": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "9334": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9335": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9336": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9337": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9340": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9341": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9342": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9343": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9344": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9345": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9346": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9347": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9348": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9349": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "9350": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9353": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9354": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9355": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9356": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9358": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9359": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9360": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "TN"
+    },
+    "9364": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "TN"
+    },
+    "9367": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "TN"
+    },
+    "9368": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9369": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9370": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9371": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9372": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MU"
+    },
+    "9373": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9374": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9375": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9376": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9378": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "9380": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9381": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9382": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9383": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9384": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9385": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9388": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9389": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9390": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9391": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9392": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9398": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AP"
+    },
+    "9400": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9401": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AS"
+    },
+    "9402": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "NE"
+    },
+    "9403": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9404": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9405": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9406": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9407": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9408": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9409": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9410": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9411": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9412": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9413": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9414": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9415": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9416": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "9417": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9418": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "9419": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "JK"
+    },
+    "9420": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9421": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9422": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9423": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9424": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9425": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9426": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9427": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9428": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9429": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "GJ"
+    },
+    "9430": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "9431": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "9432": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KO"
+    },
+    "9433": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KO"
+    },
+    "9434": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9435": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AS"
+    },
+    "9436": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "NE"
+    },
+    "9437": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "9438": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "9439": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "OR"
+    },
+    "9440": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9441": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9442": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9443": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9444": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9445": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9446": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9447": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9448": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9449": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9450": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9451": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9452": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9453": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9454": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9455": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9456": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9457": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9458": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UW"
+    },
+    "9459": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HP"
+    },
+    "9460": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9461": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9462": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9463": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9464": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9465": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9466": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "9467": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "9468": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "9469": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "JK"
+    },
+    "9470": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "9471": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "9472": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "BR"
+    },
+    "9473": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9474": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9475": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9476": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9477": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KO"
+    },
+    "9478": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "PB"
+    },
+    "9479": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MP"
+    },
+    "9480": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9481": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9482": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9483": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KA"
+    },
+    "9484": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "JK"
+    },
+    "9485": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "NE"
+    },
+    "9486": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9487": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9488": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9489": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9490": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9491": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9492": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9493": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9494": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "AP"
+    },
+    "9495": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9496": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9497": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "KL"
+    },
+    "9498": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9499": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "TN"
+    },
+    "9500": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9501": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9502": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9503": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9505": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9506": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9507": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9508": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9509": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "RJ"
+    },
+    "9510": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9511": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9512": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9513": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9514": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9515": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9516": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9517": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9518": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9519": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9521": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9522": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9523": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9525": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9526": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9527": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9528": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9529": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9530": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "RJ"
+    },
+    "9531": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "WB"
+    },
+    "9532": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "UE"
+    },
+    "9534": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9535": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9536": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9537": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9538": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9539": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9540": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9541": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9542": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9544": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9545": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9546": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9547": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9548": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UW"
+    },
+    "9549": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9550": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9552": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9553": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9554": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9555": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9556": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9557": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9558": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9559": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9560": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9561": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9562": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9564": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9565": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9566": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9567": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9568": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9569": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9570": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9571": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9572": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9573": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9574": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9575": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9576": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9579": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MH"
+    },
+    "9580": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9581": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9582": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9583": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "9584": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9585": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9586": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9587": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9588": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9589": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9591": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9592": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9593": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9594": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9596": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9597": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9598": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9599": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9600": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9601": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9602": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9603": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9604": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9605": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9606": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9608": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9609": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9610": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9611": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9612": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "9616": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9617": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9618": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9619": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9620": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9621": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9622": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9623": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9624": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9625": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "DL"
+    },
+    "9626": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9627": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9628": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9629": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9630": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9631": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9632": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9633": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9634": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9635": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9636": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9637": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9638": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9639": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9640": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9641": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9642": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9643": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9644": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9645": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9646": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9647": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9648": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9649": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9650": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9651": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9652": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9653": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9654": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9655": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9656": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9657": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9658": {
+      "op": "unknown",
+      "op_raw": "",
+      "circle": "OR"
+    },
+    "9660": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9661": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9662": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9663": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9664": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "GJ"
+    },
+    "9665": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9666": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9667": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9668": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9669": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9670": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9671": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9672": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9673": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9674": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9675": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9676": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9677": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9678": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "9679": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9680": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9682": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "JK"
+    },
+    "9683": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "HR"
+    },
+    "9684": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MH"
+    },
+    "9685": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9686": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9687": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9689": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9690": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9691": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9692": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9693": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9694": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9695": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9696": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "UE"
+    },
+    "9701": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9702": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9703": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9704": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9705": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9706": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AS"
+    },
+    "9707": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "9708": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9709": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "BR"
+    },
+    "9711": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9712": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9713": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9714": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9717": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9718": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9719": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9720": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9721": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9723": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9724": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9725": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9726": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9727": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9728": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9729": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9730": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9731": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9732": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9733": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9734": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9735": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9736": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "9737": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9739": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9740": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9741": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9742": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9743": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9744": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9745": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9746": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9747": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9748": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9749": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9751": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9752": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9753": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9754": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9755": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9756": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9758": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9759": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9760": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9761": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9763": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9764": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9765": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9766": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9767": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9769": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9770": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "MP"
+    },
+    "9771": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9772": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9773": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9774": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "NE"
+    },
+    "9775": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "WB"
+    },
+    "9776": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "OR"
+    },
+    "9777": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9778": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KL"
+    },
+    "9779": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9780": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9781": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9783": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9784": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9785": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9786": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9787": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9789": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9790": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9791": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9792": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9793": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9794": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9795": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9796": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "JK"
+    },
+    "9797": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9798": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9799": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9800": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9801": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9805": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "9810": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9811": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9812": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9813": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9814": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9815": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9816": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HP"
+    },
+    "9817": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "HR"
+    },
+    "9818": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9819": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9820": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9821": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9822": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9823": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9824": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9825": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9826": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9827": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9828": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9829": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9830": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9831": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9832": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9833": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9834": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9835": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9836": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9837": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9838": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9839": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9840": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9842": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "9843": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9844": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9845": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9846": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9847": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9848": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9849": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9850": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9855": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9860": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9861": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "OR"
+    },
+    "9862": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "NE"
+    },
+    "9863": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "NE"
+    },
+    "9864": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "AS"
+    },
+    "9865": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KA"
+    },
+    "9866": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9867": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9868": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "DL"
+    },
+    "9869": {
+      "op": "bsnl",
+      "op_raw": "CG",
+      "circle": "MU"
+    },
+    "9870": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9871": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9872": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9873": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9874": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KO"
+    },
+    "9875": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "KO"
+    },
+    "9876": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9877": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "PB"
+    },
+    "9878": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9879": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9880": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9881": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9882": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HP"
+    },
+    "9883": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9884": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9885": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9886": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9887": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9888": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9889": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9890": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9891": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9892": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9893": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9894": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9895": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9896": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9897": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9898": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9899": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9900": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9901": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9902": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9903": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KO"
+    },
+    "9904": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9905": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9906": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "JK"
+    },
+    "9907": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "WB"
+    },
+    "9908": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9909": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9910": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9911": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9912": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9913": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9914": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9915": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "PB"
+    },
+    "9916": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9917": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9918": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9919": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9920": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MU"
+    },
+    "9921": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9922": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9923": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MH"
+    },
+    "9924": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9925": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9926": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9927": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UW"
+    },
+    "9928": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9929": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9930": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9931": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9932": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9933": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "WB"
+    },
+    "9934": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9935": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9936": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9937": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9938": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "OR"
+    },
+    "9939": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9940": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9941": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9942": {
+      "op": "jio",
+      "op_raw": "RJ",
+      "circle": "BR"
+    },
+    "9943": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9944": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9945": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9946": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9947": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9948": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9949": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9950": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "RJ"
+    },
+    "9951": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9952": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9953": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9954": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "9955": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9956": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UE"
+    },
+    "9957": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AS"
+    },
+    "9958": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9959": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9960": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9961": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KL"
+    },
+    "9962": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "TN"
+    },
+    "9963": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9964": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9966": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9967": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9970": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9971": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "DL"
+    },
+    "9972": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9973": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "BR"
+    },
+    "9974": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9975": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MH"
+    },
+    "9977": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "MP"
+    },
+    "9978": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9979": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "GJ"
+    },
+    "9980": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KA"
+    },
+    "9981": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9982": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9983": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "RJ"
+    },
+    "9984": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "UE"
+    },
+    "9985": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "AP"
+    },
+    "9986": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "KA"
+    },
+    "9987": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MU"
+    },
+    "9988": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "PB"
+    },
+    "9989": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "AP"
+    },
+    "9990": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    },
+    "9991": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9992": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "HR"
+    },
+    "9993": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "MP"
+    },
+    "9994": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "TN"
+    },
+    "9995": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "KL"
+    },
+    "9996": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "HR"
+    },
+    "9997": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "UW"
+    },
+    "9998": {
+      "op": "airtel",
+      "op_raw": "AT",
+      "circle": "GJ"
+    },
+    "9999": {
+      "op": "vi",
+      "op_raw": "VI",
+      "circle": "DL"
+    }
+  }
+}

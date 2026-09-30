@@ -1,0 +1,18 @@
+# Dependency & environment
+node_modules/
+.env
+
+# Panel Firebase asli (berisi URL database privat/sensitif)
+panels.mjs
+
+# Hasil klaim & data sesi login (rahasia / privat)
+duolingo_result.txt
+adobe_result.txt
+result.txt
+audit_log.txt
+sessions/
+.worker.lock
+
+# File debug & dump sementara
+debug_dumps/
+*.log
