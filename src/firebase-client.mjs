@@ -262,23 +262,32 @@ export async function collectDevicesAndNumbers(panels, scanLimit = 50) {
   session.defaults.headers['Accept'] = 'application/json';
   session.defaults.headers['Cache-Control'] = 'no-cache';
 
-  // Flatten semua panel menjadi list task {url, key}
-  const tasks = [];
+  // Flatten semua panel menjadi list task {url, key} terdeduplikasi
+  const taskMap = new Map();
   for (const panel of panels) {
     const [url, defaultKey] = Array.isArray(panel) ? panel : [panel, 'Gagw'];
     const [parsedUrlOrItems, parsedKey] = parsePanelInfo(url, defaultKey);
     if (Array.isArray(parsedUrlOrItems)) {
       for (const item of parsedUrlOrItems) {
-        if (item && item.url && item.key) {
-          tasks.push({ url: item.url, key: item.key });
+        if (item && item.url) {
+          const normUrl = item.url.trim().replace(/\/+$/, '');
+          const key = (item.key || 'Gagw').trim();
+          if (!taskMap.has(normUrl) || (taskMap.get(normUrl).key === 'Gagw' && key !== 'Gagw')) {
+            taskMap.set(normUrl, { url: item.url, key });
+          }
         }
       }
-    } else {
-      tasks.push({ url: parsedUrlOrItems, key: parsedKey });
+    } else if (parsedUrlOrItems) {
+      const normUrl = parsedUrlOrItems.trim().replace(/\/+$/, '');
+      const key = (parsedKey || 'Gagw').trim();
+      if (!taskMap.has(normUrl) || (taskMap.get(normUrl).key === 'Gagw' && key !== 'Gagw')) {
+        taskMap.set(normUrl, { url: parsedUrlOrItems, key });
+      }
     }
   }
 
-  console.log(`  Total database Firebase : ${tasks.length}`);
+  const tasks = Array.from(taskMap.values());
+  console.log(`  Total database Firebase unik: ${tasks.length} (dari ${panels.length} panel link)`);
 
   // Scan semua database secara paralel
   let done = 0;
