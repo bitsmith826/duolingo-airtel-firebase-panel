@@ -68,13 +68,16 @@ export function saveClaimLink(link, type = 'duolingo', number = '') {
     const filePath = path.join(process.cwd(), file);
 
     const mDuo = link.match(/code=([A-Za-z0-9_-]+)/i) || link.match(/AIRTELLIVES?[A-Z0-9]+/i) || link.match(/\bDUO[A-Z0-9]+\b/i);
-    const mAdobe = link.match(/rc=([A-Za-z0-9_-]+)/i);
-    const code = mDuo ? (mDuo[1] || mDuo[0]) : (mAdobe ? mAdobe[1] : link.trim());
+    // Untuk Adobe Express, parameter uniknya adalah uuid (bukan rc yang merupakan ID kampanye Airtel statis)
+    const mAdobe = link.match(/uuid=([A-Za-z0-9_-]{20,})/i) || link.match(/token=([A-Za-z0-9_-]+)/i);
+    const code = type === 'adobe'
+      ? (mAdobe ? mAdobe[1] : link.trim())
+      : (mDuo ? (mDuo[1] || mDuo[0]) : link.trim());
 
     if (fs.existsSync(filePath)) {
       const existing = fs.readFileSync(filePath, 'utf8');
       if ((code && existing.includes(code)) || existing.includes(link.trim())) {
-        console.log(`  ${C.yellow}ℹ [DEDUPLIKASI] Kode voucher (${code || link}) sudah ada di ${file}, tidak disimpan ulang.${C.reset}`);
+        console.log(`  ${C.yellow}ℹ [DEDUPLIKASI] Kode voucher (${code}) sudah ada di ${file}, tidak disimpan ulang.${C.reset}`);
         return false;
       }
     }
