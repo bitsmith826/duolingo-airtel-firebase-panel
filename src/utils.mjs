@@ -65,7 +65,9 @@ export function checkOperator(number) {
 export function saveClaimLink(link, type = 'duolingo', number = '') {
   try {
     const file = type === 'adobe' ? 'adobe_result.txt' : 'duolingo_result.txt';
+    const soldFile = type === 'adobe' ? 'adobe_sold.txt' : 'duolingo_sold.txt';
     const filePath = path.join(process.cwd(), file);
+    const soldFilePath = path.join(process.cwd(), soldFile);
 
     const mDuo = link.match(/code=([A-Za-z0-9_-]+)/i) || link.match(/AIRTELLIVES?[A-Z0-9]+/i) || link.match(/\bDUO[A-Z0-9]+\b/i);
     // Untuk Adobe Express, parameter uniknya adalah uuid (bukan rc yang merupakan ID kampanye Airtel statis)
@@ -74,11 +76,15 @@ export function saveClaimLink(link, type = 'duolingo', number = '') {
       ? (mAdobe ? mAdobe[1] : link.trim())
       : (mDuo ? (mDuo[1] || mDuo[0]) : link.trim());
 
-    if (fs.existsSync(filePath)) {
-      const existing = fs.readFileSync(filePath, 'utf8');
-      if ((code && existing.includes(code)) || existing.includes(link.trim())) {
-        console.log(`  ${C.yellow}ℹ [DEDUPLIKASI] Kode voucher (${code}) sudah ada di ${file}, tidak disimpan ulang.${C.reset}`);
-        return false;
+    // Cek deduplikasi di file result MAUPUN file sold agar tidak pernah disimpan dobel
+    const filesToCheck = [filePath, soldFilePath];
+    for (const f of filesToCheck) {
+      if (fs.existsSync(f)) {
+        const existing = fs.readFileSync(f, 'utf8');
+        if ((code && existing.includes(code)) || existing.includes(link.trim())) {
+          console.log(`  ${C.yellow}ℹ [DEDUPLIKASI] Kode voucher (${code}) sudah tercatat di ${path.basename(f)}, tidak disimpan ulang.${C.reset}`);
+          return false;
+        }
       }
     }
 
@@ -96,14 +102,18 @@ export function getClaimedNumbers(type = 'duolingo') {
   const claimed = new Set();
   try {
     const file = type === 'adobe' ? 'adobe_result.txt' : 'duolingo_result.txt';
-    const filePath = path.join(process.cwd(), file);
-    if (fs.existsSync(filePath)) {
-      const text = fs.readFileSync(filePath, 'utf8');
-      const matches = text.match(/No:\s*(\d{10})/g);
-      if (matches) {
-        for (const m of matches) {
-          const num = m.replace(/\D/g, '').slice(-10);
-          claimed.add(num);
+    const soldFile = type === 'adobe' ? 'adobe_sold.txt' : 'duolingo_sold.txt';
+    const filesToRead = [path.join(process.cwd(), file), path.join(process.cwd(), soldFile)];
+
+    for (const filePath of filesToRead) {
+      if (fs.existsSync(filePath)) {
+        const text = fs.readFileSync(filePath, 'utf8');
+        const matches = text.match(/No:\s*(\d{10})/g);
+        if (matches) {
+          for (const m of matches) {
+            const num = m.replace(/\D/g, '').slice(-10);
+            claimed.add(num);
+          }
         }
       }
     }

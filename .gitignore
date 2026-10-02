@@ -8,6 +8,9 @@ panels.mjs
 # Hasil klaim & data sesi login (rahasia / privat)
 duolingo_result.txt
 adobe_result.txt
+duolingo_sold.txt
+adobe_sold.txt
+*_sold.txt
 result.txt
 audit_log.txt
 sessions/
