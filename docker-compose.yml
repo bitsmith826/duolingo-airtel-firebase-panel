@@ -1,0 +1,16 @@
+services:
+  duolingo-bot:
+    build: .
+    container_name: duolingo-airtel-bot
+    restart: unless-stopped
+    shm_size: '2gb' # Alokasi memori bersama penting agar Chromium tidak crash
+    environment:
+      - HEADLESS=true
+      - MAX_WORKERS=1
+      - MAX_NUMBERS=0
+      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
+    volumes:
+      # Mount folder kerja agar hasil kupon & session langsung tersimpan di VPS host
+      - ./:/app
+      # Pertahankan node_modules container agar tidak tertimpa
+      - /app/node_modules

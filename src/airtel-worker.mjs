@@ -309,7 +309,8 @@ export async function processAirtelNumber(number, deviceInfo, workerIndex, isHea
     browser = await puppeteer.launch({
       headless: isHeadless ? 'new' : false,
       protocolTimeout: 600000,
-      args: launchArgs
+      args: launchArgs,
+      ...(process.env.PUPPETEER_EXECUTABLE_PATH ? { executablePath: process.env.PUPPETEER_EXECUTABLE_PATH } : {})
     });
     page = await browser.newPage();
     if (proxyUrl) {
